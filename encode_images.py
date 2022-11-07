@@ -1,7 +1,7 @@
 import base64
 import glob
 
-HTML_TEMPLATE = "index1.html"
+HTML_TEMPLATE = "index_template.html"
 HTML_OUTPUT = "index.html"
 
 
